@@ -1,0 +1,2 @@
+# graphviz
+graphvizをubuntuにインストールするための環境
